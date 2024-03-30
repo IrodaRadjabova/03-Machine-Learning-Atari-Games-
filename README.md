@@ -7,14 +7,14 @@ Embark on an exciting journey into the realm of Atari games, building on the pow
 
 
 # Installation
-- **Python Version:** 3.11.8
+
 To work with this project, ensure you have the required libraries installed as specified in the requirements.txt file. Simply run the following command in your terminal:
    ```python
    pip install -r requirements_for_DQN.txt
    ```
 
 # Usage
-## Running the Jupyter Notebook
+**Python Version:** 3.11.8
 To use this project correctly, follow these steps:
 Start by opening the Python script files in Visual Studio Code (VSCode) or any other code editor you prefer for working with Python files.
 
