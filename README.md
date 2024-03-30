@@ -1,4 +1,4 @@
-# 03-Machine-Learning-Visa-For-Lisa
+# 03-Machine-Learning-Atari-Games
 # Task
 Utilize neural networks to address challenges through reinforcement learning, leveraging the Deep Q-Network (DQN). DQN, unlike traditional approaches reliant on tables, represents the optimal action-value function using a neural network.
 
